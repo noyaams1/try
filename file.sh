@@ -1,7 +1,5 @@
 #!/bin/bash
 echo "hello"
-<<<<<<< HEAD
+HEAD
 "kk"
-=======
 gggg
->>>>>>> main
